@@ -33,3 +33,4 @@ class Baby
 end 
 
 baby_mike = Baby.new
+baby_mike.name = mike
